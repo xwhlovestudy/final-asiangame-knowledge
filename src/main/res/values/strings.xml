@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">亚运知识问答</string>
+    <string name="ans_analysis1">突出杭州的电子科技感</string>
+    <string name="title1">杭州亚运会口号</string>
+    <string name="option1_A">A.心心相融，@未来</string>
+    <string name="option1_B">B. 心相约，梦闪耀</string>
+    <string name="option1_C">C.亚洲能量</string>
+    <string name="option1_D">D.多元化闪耀于此</string>
+</resources>
